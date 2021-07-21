@@ -81,37 +81,32 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Claro Dominicana",
+        "title": "QA Engineer",
+        "years": "2020 - Present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Oracle suites"
         ],
         "technologies": [
+          "SOAP API",
           "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Oracle database",
+          "Java EE",
+          "GNU/Linux"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Bresa Solutions",
+        "title": "Web Developer",
+        "years": "2019",
         "mainTech": [
-          "Angular 7/8"
+          "AngularJS"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "AngularJS",
+          ".NET",
+          "MSSQL",
+          "JavaScript"
         ]
       }
     ]
