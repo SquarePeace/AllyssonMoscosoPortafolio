@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.fac82074.chunk.css",
-    "main.js": "/static/js/main.e81ce870.chunk.js",
-    "main.js.map": "/static/js/main.e81ce870.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.28b6ab7b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.28b6ab7b.js.map",
-    "static/css/2.34178e39.chunk.css": "/static/css/2.34178e39.chunk.css",
-    "static/js/2.ebb6679c.chunk.js": "/static/js/2.ebb6679c.chunk.js",
-    "static/js/2.ebb6679c.chunk.js.map": "/static/js/2.ebb6679c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7935209ad7c267003e3d9f8d5a811788.js": "/precache-manifest.7935209ad7c267003e3d9f8d5a811788.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.34178e39.chunk.css.map": "/static/css/2.34178e39.chunk.css.map",
-    "static/css/main.fac82074.chunk.css.map": "/static/css/main.fac82074.chunk.css.map",
-    "static/js/2.ebb6679c.chunk.js.LICENSE.txt": "/static/js/2.ebb6679c.chunk.js.LICENSE.txt"
+    "main.css": "/AllyssonMoscosoPortafolio/static/css/main.fac82074.chunk.css",
+    "main.js": "/AllyssonMoscosoPortafolio/static/js/main.8b80cdc9.chunk.js",
+    "main.js.map": "/AllyssonMoscosoPortafolio/static/js/main.8b80cdc9.chunk.js.map",
+    "runtime-main.js": "/AllyssonMoscosoPortafolio/static/js/runtime-main.f7e245a1.js",
+    "runtime-main.js.map": "/AllyssonMoscosoPortafolio/static/js/runtime-main.f7e245a1.js.map",
+    "static/css/2.34178e39.chunk.css": "/AllyssonMoscosoPortafolio/static/css/2.34178e39.chunk.css",
+    "static/js/2.ebb6679c.chunk.js": "/AllyssonMoscosoPortafolio/static/js/2.ebb6679c.chunk.js",
+    "static/js/2.ebb6679c.chunk.js.map": "/AllyssonMoscosoPortafolio/static/js/2.ebb6679c.chunk.js.map",
+    "index.html": "/AllyssonMoscosoPortafolio/index.html",
+    "precache-manifest.9d68a10411817e8279e38c877b3e99f1.js": "/AllyssonMoscosoPortafolio/precache-manifest.9d68a10411817e8279e38c877b3e99f1.js",
+    "service-worker.js": "/AllyssonMoscosoPortafolio/service-worker.js",
+    "static/css/2.34178e39.chunk.css.map": "/AllyssonMoscosoPortafolio/static/css/2.34178e39.chunk.css.map",
+    "static/css/main.fac82074.chunk.css.map": "/AllyssonMoscosoPortafolio/static/css/main.fac82074.chunk.css.map",
+    "static/js/2.ebb6679c.chunk.js.LICENSE.txt": "/AllyssonMoscosoPortafolio/static/js/2.ebb6679c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.28b6ab7b.js",
+    "static/js/runtime-main.f7e245a1.js",
     "static/css/2.34178e39.chunk.css",
     "static/js/2.ebb6679c.chunk.js",
     "static/css/main.fac82074.chunk.css",
-    "static/js/main.e81ce870.chunk.js"
+    "static/js/main.8b80cdc9.chunk.js"
   ]
 }
